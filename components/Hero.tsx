@@ -7,7 +7,7 @@ const Hero = () => {
       <div className='container'>
         <p>Intoducing Blockforge</p>
         <h1>The future of blockchain is here.</h1>
-        <p>Lorem ipsumm </p>
+        <p>Lorem ipsummm </p>
         <CutCornerButton title='Get started' />
       </div>
     </section>
